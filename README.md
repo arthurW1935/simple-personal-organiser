@@ -4,6 +4,7 @@ Name: Sourashis Sarkar
 Roll No: 2023ebcs656
 
 File Structure
+```
 SimplePersonalOrganizer_2023ebcs656
 ├── app/
 │   ├── build/
@@ -45,3 +46,4 @@ SimplePersonalOrganizer_2023ebcs656
 ├── images/
 ├── README.md
 └── settings.gradle.kts
+```
